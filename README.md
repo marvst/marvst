@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I've been working with technology for over 5 years, gaining experience across various stages of software solutions lifecycle. For the past 4 years, I’ve been acting as a Solutions Architect, collaborating with cross-functional teams to uncover and translate customer needs and business requirements into tailored and appropriate solutions focused on delivering value quickly.
+Tech-savvy with 6+ years of experience with project management and the [entire systems development lifecycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle). Fluent in English, I specialize in crafting tailored solutions that align with business objectives. Over recent years, I have led cross-functional teams, collaborating closely with customers and stakeholders to translate their needs into technology-driven solutions using [appropriate technology](https://en.wikipedia.org/wiki/Appropriate_technology).
 
 <!--
 **marvst/marvst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
